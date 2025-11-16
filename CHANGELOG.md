@@ -9,3 +9,7 @@ updating some bugs for the first version
 ## 0.0.3
 
 the final update for the special container
+
+## 0.0.4
+
+updating the color
