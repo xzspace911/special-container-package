@@ -1,39 +1,21 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# special_container
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages).
+A lightweight Flutter widget that provides a customizable container with special styling, animations, and layout behavior.  
+`special_container` helps you create beautiful UI blocks with minimal code.
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
+## ✨ Features
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+- Custom border radius  
+- Shadow and elevation options  
+- Custom padding & margin  
+- Optional fade animation  
+- Responsive layout behavior  
+- Works on Android, iOS, Web, and Desktop
 
-## Features
+## 🚀 Getting Started
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+Add the dependency:
 
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+```yaml
+dependencies:
+  special_container: ^0.0.1
