@@ -1,7 +1,7 @@
 name: special_container
 description: "SpecialContainer is a Flutter widget that provides customizable containers 
   with padding, radius, shadows, and optional fade animations for clean UI components."
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/xzspace911/special-container-package
 
 environment:
