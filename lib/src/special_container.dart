@@ -44,7 +44,7 @@ class SpecialContainer extends StatelessWidget {
       height: height ?? 100,
       width: width ?? double.infinity,
       decoration: BoxDecoration(
-        color: color ?? Colors.amber,
+        color: color ?? Colors.purple,
         borderRadius: BorderRadius.circular(radius ?? 10),
         boxShadow: [
           BoxShadow(
